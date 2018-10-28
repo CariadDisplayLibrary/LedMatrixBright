@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: LedMatrixBright.h
-Description: LedMatrixBright font for DisplayCore
+Description: LedMatrixBright
