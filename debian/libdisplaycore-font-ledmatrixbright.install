@@ -1,2 +1,4 @@
-LedMatrixBright.cpp libraries/DisplayCore/LedMatrixBright
-LedMatrixBright.h libraries/DisplayCore/LedMatrixBright
+library.json libraries/DisplayCore/LedMatrixBright
+library.properties libraries/DisplayCore/LedMatrixBright
+README.md libraries/DisplayCore/LedMatrixBright
+src libraries/DisplayCore/LedMatrixBright
