@@ -1,7 +1,7 @@
 #ifndef _LEDMATRIXBRIGHT_H
 #define _LEDMATRIXBRIGHT_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t LedMatrixBright[];

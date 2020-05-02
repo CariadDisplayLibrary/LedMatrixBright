@@ -1,0 +1,4 @@
+library.json libraries/Cariad/LedMatrixBright
+library.properties libraries/Cariad/LedMatrixBright
+README.md libraries/Cariad/LedMatrixBright
+src libraries/Cariad/LedMatrixBright
